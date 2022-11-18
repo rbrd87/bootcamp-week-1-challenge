@@ -16,7 +16,7 @@ Several div tags were removed and replaced:
 - Added `<section>` tag
 - Added `<footer>` tag
 
-An anchor link was missing for the "search-engine-optimization" section so this was added. The title of the webpage was amended to something more appropriate. 
+An anchor link was missing for the "search-engine-optimization" section so this was added and the title of the webpage was amended to something more appropriate. 
 
 The hero image was moved from the CSS file to the HTML file, allowing the use of an alt attribute to describe the image.
 
@@ -51,3 +51,7 @@ A sample of the HTML code showing some of the refactoring, the use of semantic t
 A sample of the refactored CSS code, which shows the consolidated classes, the reorganising to follow the semantic flow of the page and comments to ensure the code is readable.
 
 ![an example of the refactored css code](assets/screenshots/css-sample.png)
+
+## Badges
+
+![GitHub last commit](https://img.shields.io/github/last-commit/rbrd87/bootcamp-week-1-challenge) https://img.shields.io/github/commit-activity/w/rbrd87/bootcamp-week-1-challenge
