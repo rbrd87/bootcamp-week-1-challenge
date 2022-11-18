@@ -54,4 +54,4 @@ A sample of the refactored CSS code, which shows the consolidated classes, the r
 
 ## Badges
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rbrd87/bootcamp-week-1-challenge) https://img.shields.io/github/commit-activity/w/rbrd87/bootcamp-week-1-challenge
+![GitHub last commit](https://img.shields.io/github/last-commit/rbrd87/bootcamp-week-1-challenge)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/rbrd87/bootcamp-week-1-challenge)
